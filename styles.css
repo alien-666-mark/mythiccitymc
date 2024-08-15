@@ -15,8 +15,8 @@ body, html {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url('https://jmp.sh/s/cAeGpaEASgVZH3Gas0qK');
     background-size: cover;
+    background-color:red ;
     background-position: center;
     background-repeat: no-repeat;
 }
